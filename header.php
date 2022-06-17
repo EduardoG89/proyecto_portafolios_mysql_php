@@ -34,7 +34,7 @@ if(isset($_SESSION['usuario']) !="eddudvp"){
                         <a class="nav-link" href="portafolio.php">Portafolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.php">Cerrar</a>
+                        <a class="nav-link" href="logout.php">Cerrar</a>
                     </li>
                 </ul>
             </div>
